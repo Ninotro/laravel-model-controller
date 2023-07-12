@@ -1,3 +1,3 @@
-<div class="container-fluid bg-black">
-    <h1>FOOTER</h1>
+<div class="container-fluid bg-black text-center">
+    <h1>BEST FILMS EVER</h1>
 </div>
